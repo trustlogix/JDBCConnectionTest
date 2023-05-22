@@ -1,3 +1,9 @@
+Please download the jar file from below location(We are not able to upload big file into github)
+
+https://repo1.maven.org/maven2/net/snowflake/snowflake-jdbc/3.13.29/snowflake-jdbc-3.13.29.jar
+
+Place the jar file where this .java files are placed.
+
 Run Command
 
 Mac/Linux
